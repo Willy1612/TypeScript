@@ -1,1 +1,5 @@
-console.log("Hello Vite + TypeScript!");
+// import {ejemploFor} from './estruct-control/for';
+import {whileExample} from './estruct-control/while';
+
+
+whileExample();
